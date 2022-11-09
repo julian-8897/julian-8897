@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julian-8897
 - 👀 I’m interested in machine learning and deep learning, and in particular deep generative models such as VAEs and GANs.
-- 🌱 I’m currently learning to build various deep learning architectures in PyTorch and applying them to various datasets.
+- 🌱 I’m currently learning to build various deep learning architectures in PyTorch.
 - 📫 How to reach me: julianchan8897@gmail.com
 
 <!---
