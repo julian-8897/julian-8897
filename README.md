@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julian-8897
-- 👀 I’m interested in machine learning and deep learning, and in particular deep generative models such as VAEs, GANs, and Normalizing Flows
+- 👀 I’m interested in deep learning, and in particular deep generative models such as VAEs, GANs, and Normalizing Flows
 - 🌱 I’m currently learning to build various deep learning architectures in PyTorch.
 - 📫 How to reach me: julianchan8897@gmail.com
 
