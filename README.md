@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julian-8897
-- 👀 I’m interested in deep learning, and in particular deep generative models such as VAEs, GANs, and Normalizing Flows
-- 🌱 I’m currently learning to build various deep learning architectures in PyTorch.
+- 👀 I'm currently a PhD student at the University of Surrey. My current research project involves the use of N-body simulations of galaxy mergers and machine learning techniques to calculate the amplitude of the stochastic gravitational wave background as a function of black hole mass and galactic properties.
+- 🌱 Some of my other interests (but not exhaustive) include: Unsupervised learning, self-supervised learning, Physics-Informed Neural Networks 
 - 📫 How to reach me: julianchan8897@gmail.com
 
 <!---
