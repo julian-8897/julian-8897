@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,git,github,flask,bash,vscode)](https://skillicons.dev)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julian-8897)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
