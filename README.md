@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,git,flask)](https://skillicons.dev)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=julian-8897&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
