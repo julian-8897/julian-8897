@@ -1,5 +1,10 @@
-- Hey there, I'm a PhD student @ The University of Surrey, mainly working scientific machine learning applied to the Astrophysical domain.
-- My primary interests are: Graph Representation Learning, Neural ODEs, Symbolic Regression, and Flow Matching
+👋 Hey there! I'm a PhD student @ The University of Surrey, working on **Scientific Machine Learning** applied to **Astrophysics**!  
+
+**My primary interests are:**
+- 🕸️ Graph Representation Learning
+- 🌌 Neural ODEs
+- 🧮 Symbolic Regression
+- 🔄 Flow Matching
 
 
 
