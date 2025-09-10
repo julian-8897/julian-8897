@@ -1,4 +1,4 @@
-I am a PhD student at the University of Surrey focused on advancing Scientific Machine Learning methods for Astrophysics, with a particular emphasis on bridging machine learning with complex dynamical systems such as $N$-body gravitational simulations.
+I am a PhD student at the University of Surrey focused on advancing Scientific Machine Learning methods for Astrophysics, with a particular emphasis on bridging machine learning with complex dynamical systems such as N-body gravitational simulations.
 
 **My primary interests are:**
 - 🌌 Neural ODEs
