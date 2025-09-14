@@ -13,9 +13,19 @@ I am a PhD student at the University of Surrey working on advancing *Scientific 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,flask&perline=5)](https://skillicons.dev)
 
 ### GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=julian-8897&show_icons=true&theme=nord#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![julian-8897's Streak](https://github-readme-streak-stats.herokuapp.com/?user=julian-8897&theme=nord&hide_border=true)
-![julian-8897's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-8897&theme=nord&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+
+<a href="https://github.com/julian-8897">
+  <img src="https://github-readme-stats.vercel.app/api?username=julian-8897&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="150">
+</a>
+<a href="https://github.com/julian-8897">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=julian-8897&theme=nord&hide_border=true" alt="GitHub Streak" height="150">
+</a>
+<a href="https://github.com/julian-8897">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julian-8897&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="150">
+</a>
+
+</div>
 
 <!---
 julian-8897/julian-8897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
