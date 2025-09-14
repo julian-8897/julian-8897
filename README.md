@@ -20,8 +20,6 @@ I am a PhD student at the University of Surrey working on advancing *Scientific 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=julian-8897&theme=nord&hide_border=true&card_width=700" height="150" />
   </a>
-  <a href="https://github.com/julian-8897">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julian-8897&theme=nord&show_icons=true&hide_border=true&layout=compact&card_width=500" height="150" alt="Top Languages" />
 </a>
 
   </a>
