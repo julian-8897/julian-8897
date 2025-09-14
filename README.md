@@ -7,7 +7,9 @@ I am a PhD student at the University of Surrey working on advancing *Scientific 
 - Graph Representation Learning  
 - Symbolic Regression  
 - Flow Matching  
-- Pretraining & Transfer Learning  
+- Pretraining & Transfer Learning
+- N-body Simulations
+- Dynamics of Supermassive Binary Black Holes
 
 ### Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,flask&perline=5)](https://skillicons.dev)
