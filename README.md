@@ -9,12 +9,12 @@ I am a PhD student at the University of Surrey working on advancing *Scientific 
 - Flow Matching  
 - Pretraining & Transfer Learning  
 
-### Tools & Frameworks
+### Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,flask&perline=5)](https://skillicons.dev)
 
 ### GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=julian-8897&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
+![julian-8897's Streak](https://github-readme-streak-stats.herokuapp.com/?user=julian-8897&theme=material-palenight&hide_border=false)
 
 <!---
 julian-8897/julian-8897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
