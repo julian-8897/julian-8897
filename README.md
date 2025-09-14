@@ -12,8 +12,6 @@ I am a PhD student at the University of Surrey working on advancing *Scientific 
 ### Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,flask&perline=5)](https://skillicons.dev)
 
-### GitHub Stats
-
 <div align="center">
 
   <a href="https://github.com/julian-8897">
