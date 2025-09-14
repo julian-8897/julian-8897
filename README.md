@@ -12,7 +12,7 @@ I am a PhD student at the University of Surrey working on advancing *Scientific 
 ### Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,flask&perline=5)](https://skillicons.dev)
 
-<div align="center">
+<div align="left">
 
   <a href="https://github.com/julian-8897">
     <img src="https://github-readme-stats.vercel.app/api?username=julian-8897&theme=nord&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
