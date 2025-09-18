@@ -15,7 +15,16 @@ I am a PhD student at the University of Surrey working on advancing *Scientific 
 - Fine-tuning open source LLMs for domain-specific applications
 
 ### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=python,numpy,sklearn,pytorch,lightning,huggingface,wandb,streamlit,git&perline=5)](https://skillicons.dev)
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />](https://python.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="32" alt="NumPy" />](https://numpy.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="32" alt="scikit-learn" />](https://scikit-learn.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" alt="PyTorch" />](https://pytorch.org/)
+[<img src="https://pytorch-lightning.readthedocs.io/en/latest/_static/logo.svg" height="32" alt="PyTorch Lightning" />](https://lightning.ai/)
+[<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="32" alt="Hugging Face" />](https://huggingface.co/)
+[<img src="https://wandb.ai/favicon.svg" height="32" alt="Weights & Biases" />](https://wandb.ai/)
+[<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="32" alt="Streamlit" />](https://streamlit.io/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="32" alt="Git" />](https://git-scm.com/)
 
 
 
