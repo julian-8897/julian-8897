@@ -15,9 +15,8 @@ I am a PhD student at the University of Surrey working on advancing *Scientific 
 - Fine-tuning open source LLMs for domain-specific applications
 
 ### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,flask&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,numpy,sklearn,pytorch,lightning,huggingface,wandb,streamlit,git&perline=5)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julian-8897)](https://github.com/julian-8897/github-readme-stats)
 
 
 <!---
