@@ -22,7 +22,7 @@ I am a PhD student at the University of Surrey working on advancing *Scientific 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" alt="PyTorch" />](https://pytorch.org/)
 [<img src="https://pytorch-lightning.readthedocs.io/en/latest/_static/logo.svg" height="32" alt="PyTorch Lightning" />](https://lightning.ai/)
 [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="32" alt="Hugging Face" />](https://huggingface.co/)
-[<img src="https://docs.wandb.ai/assets/logo.svg" height="32" alt="Weights & Biases" />](https://wandb.ai/)
+[<img src="https://wandb.ai/images/favicon/favicon-96x96.png" height="32" alt="Weights & Biases" />](https://wandb.ai/)
 [<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="32" alt="Streamlit" />](https://streamlit.io/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="32" alt="Git" />](https://git-scm.com/)
 
