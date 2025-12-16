@@ -5,11 +5,11 @@ I am a PhD student at the University of Surrey working on *Machine Learning for 
 ---
 
 ### Research Interests
-- Neural Differential Equations
-- Graph Neural Networks
-- Operator learning and structure-aware models
-- Symbolic Regression  
-- Pretraining, transfer and multi-task learning for models across simulation regimes
+- *Neural Differential Equations*
+- *Graph Neural Networks*
+- *Operator learning and structure-aware models*
+- *Symbolic Regression*  
+- *Pretraining, transfer and multi-task learning for models across simulation regimes*
 
 ---
 
