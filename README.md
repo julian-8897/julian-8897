@@ -1,6 +1,6 @@
 ## About Me  
 
-I am a PhD student at the University of Surrey working on **Machine Learning for Dynamical Systems** in Astrophysics. My research focuses on developing neural methods as surrogate models for complex gravitational dynamics, particularly N-body simulations of galaxy mergers and dynamics of supermassive black hole binaries.
+I am a PhD student at the University of Surrey working on *Machine Learning for Dynamical Systems* in Astrophysics. My research focuses on developing neural methods as surrogate models for complex gravitational dynamics, particularly N-body simulations of galaxy mergers and dynamics of supermassive black hole binaries.
 
 ---
 
