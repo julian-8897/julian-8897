@@ -13,7 +13,7 @@ I am a PhD student at the University of Surrey working on **Machine Learning for
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />](https://python.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" alt="PyTorch" />](https://pytorch.org)
-[<img src="https://raw.githubusercontent.com/pyg-team/pytorch_geometric/master/docs/source/_static/img/pyg_logo.png" height="32" alt="PyTorch Geometric" />](https://pytorch-geometric.readthedocs.io/)
+[<img src="https://graph-neural-networks.github.io/img/pyg_logo.png" height="32" alt="PyTorch Geometric" />](https://pytorch-geometric.readthedocs.io/)
 [<img src="https://pytorch-lightning.readthedocs.io/en/latest/_static/logo.svg" height="32" alt="PyTorch Lightning" />]
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weightsandbiases.svg" height="32" alt="Weights & Biases" />](https://wandb.ai/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="32" alt="Git" />](https://git-scm.com/)
