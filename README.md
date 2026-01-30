@@ -25,6 +25,11 @@ I am a PhD student at the University of Surrey working on *Machine Learning for 
 
 </p>
 
+![](https://raw.githubusercontent.com/julian-8897/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/julian-8897/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
 <!---
 julian-8897/julian-8897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
