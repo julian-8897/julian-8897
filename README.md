@@ -25,9 +25,10 @@ I am a PhD student at the University of Surrey working on *Machine Learning for 
 
 </p>
 
-![](https://raw.githubusercontent.com/julian-8897/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/julian-8897/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<p float="left">
+  <img src="https://raw.githubusercontent.com/julian-8897/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="49%" />
+  <img src="https://raw.githubusercontent.com/julian-8897/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="49%" />
+</p>
 
 
 <!---
