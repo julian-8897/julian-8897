@@ -6,13 +6,13 @@ Beyond that, I'm broadly interested in **Scientific Machine Learning** and its f
 
 ---
 
-## Research Interests
-- *Neural Differential Equations*
-- *Graph Neural Networks*
-- *Physics-informed neural networks and operator learning*
-- *Symbolic Regression*
+## Main Interests
 
----
+- **Scientific Machine Learning** — Neural ODEs, PINNs, operator learning (FNO, DeepONet), PDE surrogates
+- **Interpretability & Discovery** — Symbolic Regression, equation discovery from data
+- **Generative & Foundation Models for Science** — Flow matching, scientific foundation models
+
+**Domain knowledge:** N-body simulations, galaxy mergers, supermassive black hole binaries
 
 ## Technical Stack
 
