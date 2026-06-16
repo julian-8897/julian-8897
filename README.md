@@ -33,11 +33,11 @@ Deployed Streamlit app that ingests configurable arXiv categories, embeds titles
 
 ---
 
-## Research Interests
+## Interests
 
 - **Scientific Machine Learning** — Neural ODEs, PINNs, operator learning (FNO, DeepONet), PDE surrogates
-- **Inverse Problems & Inference** — amortized posterior inference, simulation-based inference, parameter recovery
 - **Generative & Foundation Models for Science** — flow matching, scientific foundation models
+- **LLM & Retrieval Systems** — semantic search and retrieval over scientific literature, with an eye toward agentic tooling for research
 - **Interpretability & Discovery** — symbolic regression, equation discovery from data
 
 _Domain knowledge:_ N-body simulations, galaxy mergers, supermassive black hole binaries
