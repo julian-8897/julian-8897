@@ -1,6 +1,6 @@
-# Hi, I'm Julian Chan
+# Hi, I'm Julian
 
-PhD researcher at the **University of Surrey** working on **Machine Learning for Dynamical Systems** in astrophysics. I build differentiable surrogates for expensive physical simulators, inverse methods for physical-parameter recovery, and research tooling for scientific ML.
+I'm a PhD researcher at the **University of Surrey** working on **Machine Learning for Dynamical Systems** in astrophysics. I build differentiable surrogates for expensive physical simulators, inverse methods for physical-parameter recovery, and research tooling for scientific ML.
 
 First-author work accepted to **MNRAS**; **Honourable Mention** at the Tesseract Hackathon 2025 (Pasteur Labs).
 
