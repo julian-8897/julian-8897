@@ -1,6 +1,6 @@
 # Hi, I'm Julian
 
-I'm an **AI research engineer** building production-minded systems across **scientific machine learning**, **agentic AI**, and **AI for science**. My PhD research at the **University of Surrey** focuses on machine learning for dynamical systems.
+I build production-minded AI systems across **scientific machine learning**, **agentic AI**, and **AI for science**. I'm currently completing a PhD at the **University of Surrey**, focused on machine learning for dynamical systems.
 
 I work with a build-first mindset: prototype quickly, evaluate rigorously, and turn useful research into reliable, deployable systems.
 
