@@ -16,10 +16,9 @@ I work with a build-first mindset: prototype quickly, evaluate rigorously, and t
 
 ## Selected builds
 
+- **[Source-grounded research agent](https://github.com/julian-8897/research-brief-agent):** an agentic loop that searches, retrieves, and reads full papers before producing cited decision briefs, with guardrails for evidence use, citation validity, tool budgets, latency, and cost.
 - **[Neural ODE surrogates for N-body simulations](https://arxiv.org/abs/2601.13019):** parameter-conditioned galaxy-merger simulation with differentiable sensitivity analysis. First-author work accepted to **MNRAS**.
 - **[Differentiable inverse methods for PDEs](https://github.com/julian-8897/tesseract-pinn-inverse-burgers):** modular JAX and PyTorch solvers for parameter recovery and posterior inference. **Honourable Mention**, Tesseract Hackathon 2025.
-- **[Parametric neural operators for chaotic dynamics](https://github.com/julian-8897/flow-matched-neural-operators):** one model that generalises across unseen Lorenz-system parameters without retraining.
-- **[Semantic search for scientific literature](https://github.com/julian-8897/arxiv-semantic-search):** a [deployed application](https://arxiv-llm.streamlit.app) for cross-domain arXiv discovery using SPECTER and FAISS.
 
 ## Toolbox
 
