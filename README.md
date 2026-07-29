@@ -20,6 +20,13 @@ I work with a build-first mindset: prototype quickly, evaluate rigorously, and t
 - **[Neural ODE surrogates for N-body simulations](https://arxiv.org/abs/2601.13019):** parameter-conditioned galaxy-merger simulation with differentiable sensitivity analysis. First-author work accepted to **MNRAS**.
 - **[Differentiable inverse methods for PDEs](https://github.com/julian-8897/tesseract-pinn-inverse-burgers):** modular JAX and PyTorch solvers for parameter recovery and posterior inference. **Honourable Mention**, Tesseract Hackathon 2025.
 
-## Toolbox
+## Stack
 
-**Python · PyTorch · JAX · LLM systems · retrieval · scientific computing · Docker · experiment infrastructure**
+[![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=flat)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&style=flat)](https://pytorch.org/)
+[![JAX](https://img.shields.io/badge/JAX-d35400?style=flat)](https://github.com/google/jax)
+[![PyTorch Geometric](https://img.shields.io/badge/PyG-Graph%20NNs-6f42c1?style=flat)](https://pytorch-geometric.readthedocs.io/)
+[![PyTorch Lightning](https://img.shields.io/badge/Lightning-792ee5?style=flat)](https://lightning.ai/)
+[![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?logo=weightsandbiases&logoColor=black&style=flat)](https://wandb.ai/)
+[![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white&style=flat)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white&style=flat)](https://git-scm.com/)
