@@ -9,7 +9,7 @@ I work with a **research + production mindset**: develop the method, then build 
 ## Research
 
 - **[Neural ODE surrogates for black hole binary evolution](https://arxiv.org/abs/2601.13019)**: a parameterised neural ODE trained on N-body galaxy-merger simulations that emulates the orbital evolution of black hole binaries and recovers merger timescales at a fraction of the cost of direct simulation. First author, accepted to **MNRAS**.
-- **[Inverse parameter estimation for PDEs](https://github.com/julian-8897/tesseract-pinn-inverse-burgers)**: solver-adjoints, PINNs, and learned posteriors recover the viscosity of Burgers' equation from sparse, noisy measurements, packaged as swappable components. Honourable Mention, Tesseract Hackathon 2025.
+- **[Inverse parameter estimation for PDEs](https://github.com/julian-8897/tesseract-pinn-inverse-burgers)**: solver-adjoints, PINNs, and learned posteriors recover the viscosity of Burgers' equation from sparse, noisy measurements, packaged as swappable components. Honourable Mention, Tesseract Hackathon 2025, presented again at the Tesseract Forum 2026.
 - **[Differentiable hybrid closure for 2D turbulence](https://github.com/julian-8897/tesseract-hybrid-closure)**: a PyTorch CNN closure trained end-to-end through a JAX spectral solver, composed across two served components with reverse-mode gradients. Reduces 500-step rollout error by **71.7%** versus the solver alone. Tesseract Hackathon 2026, Track 3.
 
 ## Production
