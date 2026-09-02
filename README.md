@@ -2,7 +2,6 @@
 
 I work across **AI for science** and **AI engineering**: machine learning for dynamical systems (differentiable simulation, inverse problems) on the research side, and agentic workflows, retrieval, evaluation and deployment on the engineering side. I'm completing a PhD at the **University of Surrey**.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2601.13019-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.13019)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-chan-a86b2921b)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:julianchan8897@gmail.com)
 
