@@ -1,6 +1,6 @@
 # Hi, I'm Julian
 
-I build AI systems across **research and production**: scientific machine learning for dynamical systems, and agentic AI engineered for production. I'm completing a PhD at the **University of Surrey** on machine learning for dynamical systems.
+I work with a **research + production mindset**: PhD-level depth in machine learning, applied to systems that ship. I develop ML methods for dynamical systems (differentiable simulation, neural operators, inverse problems) and engineer the systems around them — agentic workflows, retrieval, rigorous evaluation, deployment. I'm completing a PhD at the **University of Surrey** on machine learning for dynamical systems.
 
 I work build-first: prototype quickly, evaluate rigorously, and turn useful research into reliable, deployable systems.
 
@@ -10,14 +10,14 @@ I work build-first: prototype quickly, evaluate rigorously, and turn useful rese
 
 ## Research
 
-- **[Neural ODE surrogates for N-body simulations](https://arxiv.org/abs/2601.13019)**: parameter-conditioned galaxy-merger emulation with differentiable sensitivity analysis. First-author work, accepted to **MNRAS**.
-- **[Differentiable inverse methods for PDEs](https://github.com/julian-8897/tesseract-pinn-inverse-burgers)**: solver-adjoints, PINNs, and amortized flow-matching posteriors for parameter recovery. **Honourable Mention**, Tesseract Hackathon 2025.
-- **[Differentiable hybrid closure for 2D turbulence](https://github.com/julian-8897/tesseract-hybrid-closure)**: a PyTorch CNN closure trained a-posteriori through a JAX/Exponax spectral solver.
+- **[Neural ODE surrogates for N-body simulations](https://arxiv.org/abs/2601.13019)**: differentiable galaxy-merger emulation with sensitivity analysis. Peer-reviewed, first author, accepted to **MNRAS**.
+- **[Inverse parameter estimation for PDEs](https://github.com/julian-8897/tesseract-pinn-inverse-burgers)**: solver-adjoints, PINNs, and learned posteriors for parameter recovery, packaged as swappable components. **Honourable Mention**, Tesseract Hackathon 2025.
+- **[Learned closures for 2D turbulence](https://github.com/julian-8897/tesseract-hybrid-closure)**: a CNN closure trained end-to-end through a JAX spectral solver and served as composed components with reverse-mode gradients. Research shipped as services.
 - Day to day: differentiable simulation, neural operators, inverse problems, reproducible experiment pipelines.
 
 ## Production
 
-- **[Source-grounded research agents](https://github.com/julian-8897/research-brief-agent)**: a streaming FastAPI service that searches, retrieves, and reads full papers before writing cited decision briefs, with guardrails on evidence use, citation validity, tool budgets, latency, and cost.
+- **[Source-grounded research agents](https://github.com/julian-8897/research-brief-agent)**: a streaming FastAPI service that turns research questions into cited decision briefs, with Qdrant retrieval, full-text reading, and guardrails on evidence use, citation validity, tool budgets, latency, and cost.
 - Day to day: agentic workflows, retrieval, evaluation-first guardrails, Dockerised deployment.
 
 ## Stack
