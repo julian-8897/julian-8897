@@ -1,6 +1,6 @@
 # Hi, I'm Julian
 
-I'm an AI researcher and engineer: I develop **AI for science** (machine learning for dynamical systems, differentiable simulation, inverse problems) and I engineer production AI systems (agentic workflows, retrieval, evaluation, deployment). I'm completing a PhD at the **University of Surrey**.
+I work across **AI for science** and **AI engineering**: machine learning for dynamical systems (differentiable simulation, inverse problems) on the research side, and agentic workflows, retrieval, evaluation and deployment on the engineering side. I'm completing a PhD at the **University of Surrey**.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2601.13019-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.13019)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-chan-a86b2921b)
@@ -18,4 +18,4 @@ I'm an AI researcher and engineer: I develop **AI for science** (machine learnin
 
 ## Stack
 
-Python · PyTorch · JAX · PyTorch Lightning · W&B · FastAPI · Qdrant · Docker · Git
+Python · PyTorch · JAX · W&B · FastAPI · Qdrant · Langfuse · Docker
