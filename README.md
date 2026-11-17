@@ -1,32 +1,26 @@
 # Hi, I'm Julian
 
-**AI Research Engineering · Agentic AI · Scientific Machine Learning**
+Research engineer in AI for science and final-year PhD researcher at the **University of Surrey**. I build LLM agents that run scientific ML experiments, train neural closures through differentiable solvers, and fit neural surrogates to expensive simulations. I release the code and run records needed to check the results.
 
-I'm a PhD researcher at the **University of Surrey**, working at the intersection of AI agents, scientific machine learning, and computational research.
-
-I build AI systems for complex technical and scientific problems, from LLM-powered research agents to learned models of physical dynamics. My focus is on combining research with practical engineering, rigorous evaluation, and reproducible results.
+Open to research engineering roles in AI for science, in London or remote in the UK.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-chan-a86b2921b)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:julianchan8897@gmail.com)
 
-## Agentic AI & Evaluation
+## LLM agents for scientific ML
 
-- **[Prior or Feedback? What an LLM Uses When Adapting Neural Operators](https://arxiv.org/abs/2610.12325)**: Investigates LLM-guided adaptation of Fourier Neural Operators across PDE regimes. Benchmarks against random search and TPE under matched experimental budgets, with controlled interventions to distinguish scientific priors from experimental feedback. **Accepted at the NeurIPS 2026 AI for Science Workshop.**
+- **[Prior or Feedback? What an LLM Uses When Adapting Neural Operators](https://arxiv.org/abs/2610.12325)** ([code](https://github.com/julian-8897/budgeted-search-ai4science)): an LLM as the search policy for fine-tuning pretrained Fourier neural operators on PDEBench, across 12 adaptation tasks within and between PDE families. On a 20-trial budget it reached lower test nRMSE than random search in all 36 paired runs and than TPE in 35. To separate prior knowledge from in-context feedback, a score-reassignment replay perturbs the observed history; the next proposal shifts more than under a notation-only control in every trace, so the agent conditions on feedback and not only on its prior. Run records and a claim-verification script are released. Equal contribution, **NeurIPS 2026 AI4Science Workshop**.
+- **[Research Brief Agent](https://github.com/julian-8897/research-brief-agent)**: a tool-using LLM agent served through FastAPI that retrieves from a Qdrant index of arXiv papers, reads full text and writes a cited technical brief. Every citation is verified against the retrieved evidence, and scenario evaluations gate CI, with zero fabricated citations on the core suite.
 
-- **[Research Brief Agent](https://github.com/julian-8897/research-brief-agent)**: An end-to-end LLM research agent built with FastAPI, Qdrant, and Langfuse. Retrieves papers from arXiv, reads full-text evidence, and produces citation-verified technical briefs. Includes streaming, execution tracing, and CI-based scenario evaluations. Achieved **zero fabricated citations on the core evaluation suite**, at approximately 30 seconds and $0.10 per brief.
+## Differentiable simulation
 
-## AI for Science & Physical Simulation
+- **[Differentiable hybrid closure for 2D turbulence](https://github.com/julian-8897/tesseract-hybrid-closure)** ([walkthrough](https://julian-8897.github.io/tesseract-hybrid-closure/)): a PyTorch CNN closure for a coarse JAX/Exponax spectral solver, trained a posteriori by backpropagating through the solver rollout so it is optimised for long-horizon behaviour rather than one-step error. It cuts 500-step vorticity error by 71.7% against the coarse solver and by 15.7% against the same CNN trained a priori, on every test trajectory. The solver and network also train as separate Tesseract services, exchanging vector-Jacobian products. Tesseract Hackathon 2026.
+- **[Inverse problems and simulation-based inference for PDEs](https://github.com/julian-8897/tesseract-pinn-inverse-burgers)**: recovers the viscosity of Burgers' equation from sparse, noisy observations through one gradient interface, using either a differentiable solver adjoint or interchangeable JAX and PyTorch PINNs. An amortised flow-matching posterior over viscosity and initial conditions adds uncertainty, with calibration checked by SBC and TARP coverage. Honourable Mention, Tesseract Hackathon 2025; presented at the Tesseract Forum 2026.
+
+## ML for astrophysics
+
+- **[Neural ODE surrogates for black hole binary evolution](https://arxiv.org/abs/2601.13019)**: a parameterised neural ODE trained on N-body simulations of galaxy mergers that learns the coarse-grained orbital evolution of black hole binaries and recovers merger timescales at a fraction of the cost of direct integration. First author, **MNRAS**.
 
 - **[Differentiable Hybrid Closure for 2D Turbulence](https://github.com/julian-8897/tesseract-hybrid-closure)** ([walkthrough](https://julian-8897.github.io/tesseract-hybrid-closure/)): Couples a PyTorch neural closure with a differentiable JAX spectral solver, training directly through simulation rollouts. Reduced 500-step rollout error by **71.7% relative to the standalone solver** and **15.7% relative to a matched offline-trained baseline**, across 32 test trajectories. *Tesseract Hackathon 2026.*
 
-- **[Neural ODE Surrogates for Black Hole Binary Evolution](https://arxiv.org/abs/2601.13019)**: Developed parameterised neural ODE surrogates for black hole binary dynamics using N-body galaxy merger simulations, enabling efficient prediction of orbital evolution and merger timescales. **First author, accepted to MNRAS.**
-
-- **[Inverse Parameter Estimation for PDEs](https://github.com/julian-8897/tesseract-pinn-inverse-burgers)**: Combines solver adjoints, physics-informed neural networks, and learned posteriors for parameter inference from sparse, noisy measurements. Implemented as interchangeable JAX and PyTorch components. *Honourable Mention, Tesseract Hackathon 2025; Tesseract Forum 2026.*
-
-## Technical Stack
-
-**ML & Scientific Computing:** Python · PyTorch · JAX · Neural Operators · Neural ODEs
-
-**Agents & Backend:** LLM Agents · FastAPI · Qdrant · Langfuse
-
-**Infrastructure & Tools:** Docker · GitHub Actions · SLURM · Tesseract
+Python · PyTorch · JAX · NumPy/SciPy · Docker · HPC (SLURM)
