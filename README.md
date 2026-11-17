@@ -10,6 +10,7 @@ Open to research engineering roles in AI for science, in London or remote in the
 ## LLM agents for scientific ML
 
 - **[Prior or Feedback? What an LLM Uses When Adapting Neural Operators](https://arxiv.org/abs/2610.12325)** ([code](https://github.com/julian-8897/budgeted-search-ai4science)): an LLM agent that chooses fine-tuning settings for pretrained neural operators, within and across PDE families. With 20 trials it reached lower test error than random search in **36/36** paired runs and than TPE in 35/36. A score-reassignment replay test checks whether the agent uses its feedback or falls back on its prior: reassigning past scores shifted its next proposal more than a notation-only control in all 18 traces. Run records are on Zenodo, with a script that recomputes every reported number. Equal contribution, **NeurIPS 2026 AI4Science Workshop**.
+- **[Research Brief Agent](https://github.com/julian-8897/research-brief-agent)**: a FastAPI service where an LLM agent retrieves and reads arXiv papers and writes cited technical briefs. Every citation is checked against the retrieved text, and scenario evaluations run as CI gates: **0 fabricated citations** on the core suite.
 
 ## Differentiable simulation
 
@@ -22,4 +23,4 @@ Open to research engineering roles in AI for science, in London or remote in the
 
 ## Stack
 
-Python · PyTorch · JAX · NumPy/SciPy · Docker
+Python · PyTorch · JAX · NumPy/SciPy · Docker · HPC (SLURM)
