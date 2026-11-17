@@ -1,27 +1,30 @@
 # Hi, I'm Julian
 
-Research engineer in AI for science and final-year PhD researcher at the **University of Surrey**. I build LLM agents that run scientific ML experiments, train neural closures through differentiable solvers, and fit neural surrogates to expensive simulations. I release the code and run records needed to check the results.
-
-Open to research engineering roles in AI for science, in London or remote in the UK.
+I'm a research engineer in **AI for Science** and a final-year PhD researcher at the **University of Surrey**. I build machine learning methods and tools for scientific discovery, spanning LLM agents, differentiable simulation and neural surrogates for complex dynamical systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-chan-a86b2921b)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:julianchan8897@gmail.com)
 
 ## LLM agents for scientific ML
 
-- **[Prior or Feedback? What an LLM Uses When Adapting Neural Operators](https://arxiv.org/abs/2610.12325)** ([code](https://github.com/julian-8897/budgeted-search-ai4science)): an LLM as the search policy for fine-tuning pretrained Fourier neural operators on PDEBench, across 12 adaptation tasks within and between PDE families. On a 20-trial budget it reached lower test nRMSE than random search in all 36 paired runs and than TPE in 35. To separate prior knowledge from in-context feedback, a score-reassignment replay perturbs the observed history; the next proposal shifts more than under a notation-only control in every trace, so the agent conditions on feedback and not only on its prior. Run records and a claim-verification script are released. Equal contribution.
+- **[Prior or Feedback? What an LLM Uses When Adapting Neural Operators](https://arxiv.org/abs/2610.12325)** ([code](https://github.com/julian-8897/budgeted-search-ai4science)): Studied LLM-guided adaptation of Fourier neural operators across PDE regimes. The LLM outperformed random search and TPE in nearly all matched evaluations, while controlled interventions revealed how experimental feedback influences its decisions. Reproducible experiment records and verification tools are available. **Equal contribution.**
+
   [![NeurIPS 2026 AI4Science Workshop](https://img.shields.io/badge/NeurIPS%202026-AI4Science%20Workshop-6a1b9a?style=flat)](https://arxiv.org/abs/2610.12325)
-- **[Research Brief Agent](https://github.com/julian-8897/research-brief-agent)**: a tool-using LLM agent served through FastAPI that retrieves from a Qdrant index of arXiv papers, reads full text and writes a cited technical brief. Every citation is verified against the retrieved evidence, and scenario evaluations gate CI, with zero fabricated citations on the core suite.
+
+- **[Research Brief Agent](https://github.com/julian-8897/research-brief-agent)**: Built a tool-using LLM agent that retrieves scientific papers, synthesises technical briefs and verifies citations against source evidence. Uses FastAPI, Qdrant and automated evaluations in CI to assess reliability.
 
 ## Differentiable simulation
 
-- **[Differentiable hybrid closure for 2D turbulence](https://github.com/julian-8897/tesseract-hybrid-closure)** ([walkthrough](https://julian-8897.github.io/tesseract-hybrid-closure/)): a PyTorch CNN closure for a coarse JAX/Exponax spectral solver, trained a posteriori by backpropagating through the solver rollout so it is optimised for long-horizon behaviour rather than one-step error. It cuts 500-step vorticity error by 71.7% against the coarse solver and by 15.7% against the same CNN trained a priori, on every test trajectory. The solver and network also train as separate Tesseract services, exchanging vector-Jacobian products. Tesseract Hackathon 2026.
-- **[Inverse problems and simulation-based inference for PDEs](https://github.com/julian-8897/tesseract-pinn-inverse-burgers)**: recovers the viscosity of Burgers' equation from sparse, noisy observations through one gradient interface, using either a differentiable solver adjoint or interchangeable JAX and PyTorch PINNs. An amortised flow-matching posterior over viscosity and initial conditions adds uncertainty, with calibration checked by SBC and TARP coverage. Presented at the Tesseract Forum 2026.
+- **[Differentiable hybrid closure for 2D turbulence](https://github.com/julian-8897/tesseract-hybrid-closure)** ([walkthrough](https://julian-8897.github.io/tesseract-hybrid-closure/)): Developed a neural turbulence closure trained end-to-end through a differentiable spectral solver using PyTorch and JAX. Reduced long-horizon vorticity error by 71.7% relative to the coarse solver and 15.7% relative to conventional supervised training. Demonstrated distributed training across Tesseract services. **Tesseract Hackathon 2026.**
+
+- **[Inverse problems and simulation-based inference for PDEs](https://github.com/julian-8897/tesseract-pinn-inverse-burgers)**: Built a differentiable framework for recovering PDE parameters from sparse, noisy observations, combining solver-based inference, JAX/PyTorch physics-informed neural networks and flow-matching posterior estimation. Includes uncertainty calibration and interchangeable inference methods. **Presented at the Tesseract Forum 2026.**
+
   [![Tesseract Hackathon 2025 Honourable Mention](https://img.shields.io/badge/Tesseract%20Hackathon%202025-Honourable%20Mention-b8860b?style=flat)](https://pasteurlabs.ai/insights/tesseract-hackathon-winners)
 
 ## ML for astrophysics
 
-- **[Neural ODE surrogates for black hole binary evolution](https://arxiv.org/abs/2601.13019)**: a parameterised neural ODE trained on N-body simulations of galaxy mergers that learns the coarse-grained orbital evolution of black hole binaries and recovers merger timescales at a fraction of the cost of direct integration. First author.
+- **[Neural ODE surrogates for black hole binary evolution](https://arxiv.org/abs/2601.13019)**: Developed a neural ODE surrogate for the orbital evolution of supermassive black hole binaries, trained on N-body simulations of galaxy mergers. Reproduces merger timescales at a fraction of the computational cost of direct simulation. **First author.**
+
   [![MNRAS 2026](https://img.shields.io/badge/MNRAS-2026-1f4e79?style=flat)](https://arxiv.org/abs/2601.13019)
 
 ## Stack
