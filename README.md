@@ -21,6 +21,6 @@ Open to research engineering roles in AI for science, in London or remote in the
 
 - **[Neural ODE surrogates for black hole binary evolution](https://arxiv.org/abs/2601.13019)**: a parameterised neural ODE trained on N-body simulations of galaxy mergers that learns the coarse-grained orbital evolution of black hole binaries and recovers merger timescales at a fraction of the cost of direct integration. First author, **MNRAS**.
 
-- **[Differentiable Hybrid Closure for 2D Turbulence](https://github.com/julian-8897/tesseract-hybrid-closure)** ([walkthrough](https://julian-8897.github.io/tesseract-hybrid-closure/)): Couples a PyTorch neural closure with a differentiable JAX spectral solver, training directly through simulation rollouts. Reduced 500-step rollout error by **71.7% relative to the standalone solver** and **15.7% relative to a matched offline-trained baseline**, across 32 test trajectories. *Tesseract Hackathon 2026.*
+## Stack
 
 Python · PyTorch · JAX · NumPy/SciPy · Docker · HPC (SLURM)
