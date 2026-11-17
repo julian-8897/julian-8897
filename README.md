@@ -23,4 +23,10 @@ Open to research engineering roles in AI for science, in London or remote in the
 
 ## Stack
 
-Python · PyTorch · JAX · NumPy/SciPy · Docker · HPC (SLURM)
+[![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![JAX](https://img.shields.io/badge/JAX-4285f4?style=flat)](https://github.com/jax-ml/jax)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-8caae6?style=flat&logo=scipy&logoColor=white)](https://scipy.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![HPC (SLURM)](https://img.shields.io/badge/HPC-SLURM-34495e?style=flat)](https://slurm.schedmd.com/)
