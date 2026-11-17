@@ -22,4 +22,4 @@ Open to research engineering roles in AI for science, in London or remote in the
 
 ## Stack
 
-Python · PyTorch · JAX · NumPy/SciPy · CUDA · Docker · SLURM · GitHub Actions
+Python · PyTorch · JAX · NumPy/SciPy · Docker
