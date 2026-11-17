@@ -15,7 +15,7 @@ I'm a research engineer in **AI for Science** and a final-year PhD researcher at
 
 ## Differentiable simulation
 
-- **[Differentiable hybrid closure for 2D turbulence](https://github.com/julian-8897/tesseract-hybrid-closure)** ([walkthrough](https://julian-8897.github.io/tesseract-hybrid-closure/)): Developed a neural turbulence closure trained end-to-end through a differentiable spectral solver using PyTorch and JAX. Reduced long-horizon vorticity error by 71.7% relative to the coarse solver and 15.7% relative to conventional supervised training. Demonstrated distributed training across Tesseract services. **Tesseract Hackathon 2026.**
+- **[Differentiable hybrid closure for 2D turbulence](https://github.com/julian-8897/tesseract-hybrid-closure)** ([walkthrough](https://julian-8897.github.io/tesseract-hybrid-closure/)): Developed a neural turbulence closure trained end-to-end through a differentiable spectral solver using PyTorch and JAX. Reduced long-horizon vorticity error by 71.7% relative to the coarse solver and 15.7% relative to conventional supervised training. Also trained with the solver and network running as separate Tesseract services. **Tesseract Hackathon 2026.**
 
 - **[Inverse problems and simulation-based inference for PDEs](https://github.com/julian-8897/tesseract-pinn-inverse-burgers)**: Built a differentiable framework for recovering PDE parameters from sparse, noisy observations, combining solver-based inference, JAX/PyTorch physics-informed neural networks and flow-matching posterior estimation. Includes uncertainty calibration and interchangeable inference methods. **Presented at the Tesseract Forum 2026.**
 
